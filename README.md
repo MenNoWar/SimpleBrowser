@@ -17,6 +17,7 @@ or maybe a bit of El Capitain (WindowBlinds included default theme):
 ## Quirks
 - As i do not implement Tabs in any way, when opening a new "Tab" either by clicking middle mouse button/mousewheel or hitting Ctrl+Click a new Window will be opened with the new Url.
 - No Plugins like Adblocker or PopupBlocker
+- Google will not accept a login as it is "not a supported Browser". Amazon, Netflix, DeivantArt, Disney+ and others do.
 
 ## Starting
 You may either start the SimpleBrowser.exe without a parameter or provide the Url to open as Parameter.
