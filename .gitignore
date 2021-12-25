@@ -1,1 +1,8 @@
 /SimpleBrowser/*.user
+/SimpleBrowser/bin
+/SimpleBrowser/obj
+/SimpleBrowser/packages
+/packages
+.vs
+*.suo
+*.user
